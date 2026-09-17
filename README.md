@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
+| [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1732-find-the-highest-altitude](https://github.com/gavutham-d/DSA---Java/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/gavutham-d/DSA---Java/tree/master/1773-count-items-matching-a-rule) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gavutham-d/DSA---Java/tree/master/0836-rectangle-overlap) |
+| [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
 ## Geometry
 |  |
 | ------- |
