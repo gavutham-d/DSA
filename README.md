@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gavutham-d/DSA---Java/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/gavutham-d/DSA---Java/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gavutham-d/DSA---Java/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/gavutham-d/DSA---Java/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Prefix Sum
 |  |
 | ------- |
