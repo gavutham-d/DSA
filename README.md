@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/gavutham-d/DSA---Java/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/gavutham-d/DSA---Java/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -48,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/0867-transpose-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
