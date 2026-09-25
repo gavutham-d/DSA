@@ -18,6 +18,7 @@ class Solution {
             if(arr[j]!=j+1){
                 nums[0]=arr[j];
                 nums[1]=j+1;
+                break;
             }
         }
         return nums;
