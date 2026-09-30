@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/gavutham-d/DSA---Java/tree/master/0127-word-ladder) |
 | [0709-to-lower-case](https://github.com/gavutham-d/DSA---Java/tree/master/0709-to-lower-case) |
 | [1773-count-items-matching-a-rule](https://github.com/gavutham-d/DSA---Java/tree/master/1773-count-items-matching-a-rule) |
 ## Math
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/gavutham-d/DSA---Java/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/gavutham-d/DSA---Java/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/gavutham-d/DSA---Java/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/gavutham-d/DSA---Java/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
