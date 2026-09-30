@@ -4,11 +4,11 @@ class Solution {
         boolean f = false;
         for(String p: wl){
             s.add(p);
-            if(s.contains(ew))
+            if(p.compareTo(ew)==0)
                 f = true;
         }
         if(!f)   return 0;
-        Queue<String> q = new ArrayDeque<>();
+        Queue<String> q = new LinkedList<>();
         q.add(bw);
         int l = 0;
         int lsize = 0;
