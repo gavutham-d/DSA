@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1572-matrix-diagonal-sum](https://github.com/gavutham-d/DSA---Java/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gavutham-d/DSA---Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/gavutham-d/DSA---Java/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/gavutham-d/DSA---Java/tree/master/1773-count-items-matching-a-rule) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/gavutham-d/DSA---Java/tree/master/0127-word-ladder) |
 | [0709-to-lower-case](https://github.com/gavutham-d/DSA---Java/tree/master/0709-to-lower-case) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gavutham-d/DSA---Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/gavutham-d/DSA---Java/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
