@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/gavutham-d/DSA---Java/tree/master/0127-word-ladder) |
 | [0709-to-lower-case](https://github.com/gavutham-d/DSA---Java/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/gavutham-d/DSA---Java/tree/master/1108-defanging-an-ip-address) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/gavutham-d/DSA---Java/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/gavutham-d/DSA---Java/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gavutham-d/DSA---Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gavutham-d/DSA---Java/tree/master/1678-goal-parser-interpretation) |
