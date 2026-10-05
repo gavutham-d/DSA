@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/gavutham-d/DSA---Java/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/gavutham-d/DSA---Java/tree/master/1773-count-items-matching-a-rule) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/gavutham-d/DSA---Java/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/gavutham-d/DSA---Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/gavutham-d/DSA---Java/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Geometry
 |  |
 | ------- |
