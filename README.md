@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/gavutham-d/DSA---Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/gavutham-d/DSA---Java/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/gavutham-d/DSA---Java/tree/master/0709-to-lower-case) |
+| [0925-long-pressed-name](https://github.com/gavutham-d/DSA---Java/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/gavutham-d/DSA---Java/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/gavutham-d/DSA---Java/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/gavutham-d/DSA---Java/tree/master/1528-shuffle-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gavutham-d/DSA---Java/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gavutham-d/DSA---Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
+| [0925-long-pressed-name](https://github.com/gavutham-d/DSA---Java/tree/master/0925-long-pressed-name) |
 ## Bit Manipulation
 |  |
 | ------- |
