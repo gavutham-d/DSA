@@ -5,10 +5,10 @@ public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
         long st = 0;
         long en = n;
-        while(st<=en){
+        while(st<en){
             long m = st+(en-st)/2;
             if(isBadVersion((int)m)){
-                en=m-1;
+                en=m;
                 // c++;
             }
             else{
