@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/gavutham-d/DSA---Java/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/gavutham-d/DSA---Java/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/gavutham-d/DSA---Java/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/gavutham-d/DSA---Java/tree/master/0493-reverse-pairs) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/gavutham-d/DSA---Java/tree/master/1859-sorting-the-sentence) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/gavutham-d/DSA---Java/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
