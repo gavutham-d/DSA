@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gavutham-d/DSA---Java/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/gavutham-d/DSA---Java/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gavutham-d/DSA---Java/tree/master/0287-find-the-duplicate-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gavutham-d/DSA---Java/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/gavutham-d/DSA---Java/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/gavutham-d/DSA---Java/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gavutham-d/DSA---Java/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gavutham-d/DSA---Java/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gavutham-d/DSA---Java/tree/master/0628-maximum-product-of-three-numbers) |
