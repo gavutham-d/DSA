@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gavutham-d/DSA---Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gavutham-d/DSA---Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gavutham-d/DSA---Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/gavutham-d/DSA---Java/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## String
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gavutham-d/DSA---Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gavutham-d/DSA---Java/tree/master/0645-set-mismatch) |
 | [1859-sorting-the-sentence](https://github.com/gavutham-d/DSA---Java/tree/master/1859-sorting-the-sentence) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gavutham-d/DSA---Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gavutham-d/DSA---Java/tree/master/2778-sum-of-squares-of-special-elements) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gavutham-d/DSA---Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
