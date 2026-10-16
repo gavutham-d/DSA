@@ -8,9 +8,7 @@ class Solution {
             sb.append('9');
         if(r>0)
             sb.append((char)('0'+r));
-        while(sb.length()<num){
-            sb.append('0');
-        }
+        for(int i=q+(r>0 ? 1:0);i<num;i++) sb.append('0');
         return sb.toString();
     }
 }
