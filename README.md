@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1528-shuffle-string](https://github.com/gavutham-d/DSA---Java/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/gavutham-d/DSA---Java/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gavutham-d/DSA---Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/gavutham-d/DSA---Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/gavutham-d/DSA---Java/tree/master/0925-long-pressed-name) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/gavutham-d/DSA---Java/tree/master/0645-set-mismatch) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gavutham-d/DSA---Java/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/gavutham-d/DSA---Java/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/gavutham-d/DSA---Java/tree/master/0493-reverse-pairs) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gavutham-d/DSA---Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gavutham-d/DSA---Java/tree/master/0645-set-mismatch) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/gavutham-d/DSA---Java/tree/master/1859-sorting-the-sentence) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gavutham-d/DSA---Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Pigeonhole Principle
