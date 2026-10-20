@@ -1,10 +1,13 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashMap<Integer,Integer> hm = new HashMap<>();
-        for(int num: nums)
-            hm.put(num,hm.getOrDefault(num,0)+1);
-        for(int num: hm.keySet())
-            if(hm.get(num)==1) return num;
-        return -1;
+        int ans = 0;
+        for(int i=0;i<32;i++){
+            int s = 0;
+            for(int num: nums)
+                s+=num>>i&1;
+            s%=3;
+            ans|=s<<i;
+        }
+        return ans;
     }
 }
