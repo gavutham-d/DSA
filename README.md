@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/gavutham-d/DSA---Java/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/gavutham-d/DSA---Java/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gavutham-d/DSA---Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/gavutham-d/DSA---Java/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
