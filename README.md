@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
+| [1324-print-words-vertically](https://github.com/gavutham-d/DSA---Java/tree/master/1324-print-words-vertically) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1528-shuffle-string](https://github.com/gavutham-d/DSA---Java/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/gavutham-d/DSA---Java/tree/master/1572-matrix-diagonal-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/gavutham-d/DSA---Java/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/gavutham-d/DSA---Java/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/gavutham-d/DSA---Java/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1324-print-words-vertically](https://github.com/gavutham-d/DSA---Java/tree/master/1324-print-words-vertically) |
 | [1528-shuffle-string](https://github.com/gavutham-d/DSA---Java/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gavutham-d/DSA---Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gavutham-d/DSA---Java/tree/master/1678-goal-parser-interpretation) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/gavutham-d/DSA---Java/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/0867-transpose-matrix) |
+| [1324-print-words-vertically](https://github.com/gavutham-d/DSA---Java/tree/master/1324-print-words-vertically) |
 ## Hash Table
 |  |
 | ------- |
