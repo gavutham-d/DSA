@@ -12,7 +12,7 @@ class Solution {
             }
             while(sb.charAt(sb.length()-1)==' ')
                 sb.deleteCharAt(sb.length()-1);
-            ans.add(sb.toString());
+            ans.add(sb.toString().stripTrailing());
         }
         return ans;
     }
