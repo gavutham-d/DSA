@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/gavutham-d/DSA---Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gavutham-d/DSA---Java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/gavutham-d/DSA---Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gavutham-d/DSA---Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/gavutham-d/DSA---Java/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## String
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gavutham-d/DSA---Java/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/gavutham-d/DSA---Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/gavutham-d/DSA---Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
