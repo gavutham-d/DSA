@@ -10,8 +10,6 @@ class Solution {
             for(String w: words){
                 sb.append(i<w.length() ? w.charAt(i) : " ");
             }
-            while(sb.charAt(sb.length()-1)==' ')
-                sb.deleteCharAt(sb.length()-1);
             ans.add(sb.toString().stripTrailing());
         }
         return ans;
