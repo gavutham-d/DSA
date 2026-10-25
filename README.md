@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/gavutham-d/DSA---Java/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/gavutham-d/DSA---Java/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/gavutham-d/DSA---Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gavutham-d/DSA---Java/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/gavutham-d/DSA---Java/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/gavutham-d/DSA---Java/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
