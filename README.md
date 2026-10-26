@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gavutham-d/DSA---Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gavutham-d/DSA---Java/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/gavutham-d/DSA---Java/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/gavutham-d/DSA---Java/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## String
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/gavutham-d/DSA---Java/tree/master/0493-reverse-pairs) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gavutham-d/DSA---Java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/gavutham-d/DSA---Java/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gavutham-d/DSA---Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gavutham-d/DSA---Java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gavutham-d/DSA---Java/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/gavutham-d/DSA---Java/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gavutham-d/DSA---Java/tree/master/2778-sum-of-squares-of-special-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/gavutham-d/DSA---Java/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Greedy
 |  |
 | ------- |
