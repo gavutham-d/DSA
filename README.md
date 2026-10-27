@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gavutham-d/DSA---Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gavutham-d/DSA---Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gavutham-d/DSA---Java/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2906-construct-product-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/2906-construct-product-matrix) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/gavutham-d/DSA---Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gavutham-d/DSA---Java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gavutham-d/DSA---Java/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/gavutham-d/DSA---Java/tree/master/1732-find-the-highest-altitude) |
+| [2906-construct-product-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/2906-construct-product-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/gavutham-d/DSA---Java/tree/master/1572-matrix-diagonal-sum) |
+| [2906-construct-product-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/2906-construct-product-matrix) |
 ## Simulation
 |  |
 | ------- |
