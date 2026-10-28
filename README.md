@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gavutham-d/DSA---Java/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/gavutham-d/DSA---Java/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/gavutham-d/DSA---Java/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/gavutham-d/DSA---Java/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/gavutham-d/DSA---Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gavutham-d/DSA---Java/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/gavutham-d/DSA---Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/gavutham-d/DSA---Java/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gavutham-d/DSA---Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gavutham-d/DSA---Java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/gavutham-d/DSA---Java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/gavutham-d/DSA---Java/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/gavutham-d/DSA---Java/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/gavutham-d/DSA---Java/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gavutham-d/DSA---Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
