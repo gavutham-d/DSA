@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gavutham-d/DSA---Java/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/gavutham-d/DSA---Java/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/gavutham-d/DSA---Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/gavutham-d/DSA---Java/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/gavutham-d/DSA---Java/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/gavutham-d/DSA---Java/tree/master/0179-largest-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/gavutham-d/DSA---Java/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/gavutham-d/DSA---Java/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/gavutham-d/DSA---Java/tree/master/1572-matrix-diagonal-sum) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/gavutham-d/DSA---Java/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/gavutham-d/DSA---Java/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/gavutham-d/DSA---Java/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0442-find-all-duplicates-in-an-array) |
