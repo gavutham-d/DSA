@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/gavutham-d/DSA---Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gavutham-d/DSA---Java/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2525-categorize-box-according-to-criteria](https://github.com/gavutham-d/DSA---Java/tree/master/2525-categorize-box-according-to-criteria) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gavutham-d/DSA---Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/gavutham-d/DSA---Java/tree/master/4061-minimum-queen-moves-to-reach-target) |
