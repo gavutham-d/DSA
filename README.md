@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gavutham-d/DSA---Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gavutham-d/DSA---Java/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gavutham-d/DSA---Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/gavutham-d/DSA---Java/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/gavutham-d/DSA---Java/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## String
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/gavutham-d/DSA---Java/tree/master/2525-categorize-box-according-to-criteria) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gavutham-d/DSA---Java/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gavutham-d/DSA---Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gavutham-d/DSA---Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/gavutham-d/DSA---Java/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Geometry
 |  |
