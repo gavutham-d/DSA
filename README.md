@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gavutham-d/DSA---Java/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gavutham-d/DSA---Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gavutham-d/DSA---Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gavutham-d/DSA---Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/gavutham-d/DSA---Java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gavutham-d/DSA---Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gavutham-d/DSA---Java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/gavutham-d/DSA---Java/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/gavutham-d/DSA---Java/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gavutham-d/DSA---Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gavutham-d/DSA---Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gavutham-d/DSA---Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/gavutham-d/DSA---Java/tree/master/0836-rectangle-overlap) |
