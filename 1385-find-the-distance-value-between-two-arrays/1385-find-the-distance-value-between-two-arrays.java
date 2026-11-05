@@ -8,6 +8,7 @@ class Solution {
                 int t = arr1[i]-arr2[j];
                 if(Math.abs(t)<=d){
                     f = false;
+                    break;
                 }
             }
             if(f) count++;
