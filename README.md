@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/gavutham-d/DSA---Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1324-print-words-vertically](https://github.com/gavutham-d/DSA---Java/tree/master/1324-print-words-vertically) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gavutham-d/DSA---Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1528-shuffle-string](https://github.com/gavutham-d/DSA---Java/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/gavutham-d/DSA---Java/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gavutham-d/DSA---Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/gavutham-d/DSA---Java/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/gavutham-d/DSA---Java/tree/master/0925-long-pressed-name) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gavutham-d/DSA---Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/gavutham-d/DSA---Java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gavutham-d/DSA---Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gavutham-d/DSA---Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gavutham-d/DSA---Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/gavutham-d/DSA---Java/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sorting
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gavutham-d/DSA---Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gavutham-d/DSA---Java/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gavutham-d/DSA---Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gavutham-d/DSA---Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/gavutham-d/DSA---Java/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gavutham-d/DSA---Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gavutham-d/DSA---Java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
